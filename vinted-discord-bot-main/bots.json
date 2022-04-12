@@ -1,7 +1,0 @@
-[
-    {
-        "guildId": "884063724367913030",
-        "token": "process.env.VINTED_BOT_TOKEN",
-        "adminIDs": "222412236658966531"
-    }
-]
